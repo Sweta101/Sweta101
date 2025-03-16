@@ -32,3 +32,6 @@ Currently, I’m a Graduate Teaching Assistant and actively seeking a full-time 
 ---
 
 Thanks for stopping by! Let’s connect and explore how data can drive innovation 🌟
+
+---
+_“Empowering businesses through data-driven insights”_
