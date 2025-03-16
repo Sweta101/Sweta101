@@ -26,7 +26,7 @@ Currently, I’m a Graduate Teaching Assistant and actively seeking a full-time 
 
 ## 📫 Let's Connect
 
-- 📧 Email: szk6553@psu.edu
+- 📧 Email: sweta.k0906@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/sweta-kumari09)
 
 ---
