@@ -1,8 +1,8 @@
 # Hi, I'm Sweta 👋🏻
 
-In 2020, I began my professional journey as a Sales Executive at MyCaptain, where I discovered the impact of data in driving business outcomes. Over the years, my curiosity for data's potential grew—especially as I led teams, analyzed marketing metrics, and consistently exceeded revenue targets at companies like Simplilearn and UpGrad 📊✨.
+In 2020, I began my professional journey as a Sales Executive at MyCaptain, where I discovered the impact of data in driving business outcomes. Over the years, my curiosity for data's potential grew, especially as I led teams, analyzed marketing metrics, and consistently exceeded revenue targets at companies like Simplilearn and UpGrad 📊✨.
 
-At UpGrad, I wasn't just chasing numbers—I was analyzing them. From conducting marketing data analysis to optimizing team performance, I realized how powerful data could be in making strategic decisions. These experiences sparked a deeper interest in the "why" behind the numbers and led me to pursue a 🎓Master’s in Business Analytics at The Pennsylvania State University, Smeal College of Business.
+At UpGrad, I wasn't just chasing numbers, I was analyzing them. From conducting marketing data analysis to optimizing team performance, I realized how powerful data could be in making strategic decisions. These experiences sparked a deeper interest in the "why" behind the numbers and led me to pursue a 🎓Master’s in Business Analytics at The Pennsylvania State University, Smeal College of Business.
 
 Along the way, I've sharpened my skills in Python, SQL, Tableau, Power BI, and R—tools that allow me to turn raw data into compelling insights. Whether it’s building predictive models, crafting dashboards, or diving into regression analysis, I’m driven by the thrill of solving real-world problems through data.
 
