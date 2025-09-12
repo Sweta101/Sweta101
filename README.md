@@ -4,7 +4,7 @@ In 2020, I began my professional journey as a Sales Executive at MyCaptain, wher
 
 At UpGrad, I wasn't just chasing numbers, I was analyzing them. From conducting marketing data analysis to optimizing team performance, I realized how powerful data could be in making strategic decisions. These experiences sparked a deeper interest in the "why" behind the numbers and led me to pursue a 🎓Master’s in Business Analytics at The Pennsylvania State University, Smeal College of Business.
 
-Along the way, I've sharpened my skills in Python, SQL, Tableau, Power BI, and R—tools that allow me to turn raw data into compelling insights. Whether it’s building predictive models, crafting dashboards, or diving into regression analysis, I’m driven by the thrill of solving real-world problems through data.
+Along the way, I've sharpened my skills in Python, SQL, Tableau, Power BI, and R tools that allow me to turn raw data into compelling insights. Whether it’s building predictive models, crafting dashboards, or diving into regression analysis, I’m driven by the thrill of solving real-world problems through data.
 
 Currently, I’m a Graduate Teaching Assistant and actively seeking a full-time job or internship 🏢 where I can continue learning, contribute to impactful projects, and help businesses unlock the power of their data.
 
