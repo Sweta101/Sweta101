@@ -1,6 +1,6 @@
 # Hi, I'm Sweta 👋🏻
 
-I’m a Business Analytics professional with a Master’s degree from Penn State and 4+ years’ experience in strategy, operations, and data-driven decision making. I enjoy building predictive models, dashboards, and automation frameworks that turn complex data into actionable insights.
+I’m a Business Analytics professional with a Master’s degree from Penn State and 5+ years’ experience in strategy, operations, and data-driven decision making. I enjoy building predictive models, dashboards, and automation frameworks that turn complex data into actionable insights.
 
 My toolkit includes SQL, Python, Tableau, Power BI, and Excel (VBA). On this GitLab you’ll find my analytics projects, dashboards, and experiments where I explore data mining, machine learning, and business intelligence.
 
